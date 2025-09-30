@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: "Pena"
+    given-names: "Caroline"
+    orcid: "https://orcid.org/0009-0007-2329-8638"
+  - family-names: "J.P. O'Sullivan"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-4754-3614"
+  - family-names: "MacCarron"
+    given-names: "Padraig"
+    orcid: "https://orcid.org/0000-0002-5163-9264"
+  - family-names: "Saxena"
+    given-names: "Akrati"
+    orcid: "https://orcid.org/0000-0002-7151-6309"
+title: "BandNet and RT8 data"
+version: 1.0.0
+url: "https://github.com/caroline-pena/BandNet_data"
+date-released: 2025-09-30
