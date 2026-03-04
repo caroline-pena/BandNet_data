@@ -1,5 +1,7 @@
 # Dynamics of temporal influence on polarised networks
-This repository contains the data to build the networks analysed on the paper "Dynamics of temporal influence on polarised networks". The paper is available on [arXiv](https://arxiv.org/abs/2507.17177).
+This repository contains the data to build the networks analysed on the paper "Dynamics of temporal influence on polarised networks". The paper is available on [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337753).
+
+D.O.I. for citation: https://doi.org/10.5281/zenodo.18868024
 
 ## File description
 The file `BandNet1_t1.csv` contains the edges of BandNet1 in time slice 1.
